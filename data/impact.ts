@@ -70,9 +70,9 @@ export const stats: Stat[] = [
     detail: "Graceful drain for batch + streaming task tiers",
   },
   {
-    value: "6 PRBs",
-    label: "P2/P3 incident reviews led",
-    detail: "4 as owner, plus on-call and release ownership",
+    value: "8 min → 30 s",
+    label: "Pre-deploy pipeline time",
+    detail: "Pod-native identity with caching, every forward and rollback",
   },
   {
     value: "Upstream",
