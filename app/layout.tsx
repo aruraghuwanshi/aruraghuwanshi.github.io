@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Aru Raghuwanshi — Engineering Impact",
     description:
-      "~3x query latency · ~$1.3M/yr savings · Druid 25→28→32 · zero-downtime deploys · upstream Apache Druid contributor.",
+      "36h → <1h cluster rollouts · ~$1.3M/yr savings · Druid 25→28→32 · zero-downtime deploys · upstream Apache Druid contributor.",
     type: "website",
   },
 };

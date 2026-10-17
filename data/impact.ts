@@ -50,9 +50,9 @@ export const hero = {
 
 export const stats: Stat[] = [
   {
-    value: "~3x",
-    label: "Query-latency improvement on Druid 28",
-    detail: "Fleet-wide OLAP queries after the 25 → 28 upgrade",
+    value: "36 h → <1 h",
+    label: "Cluster-wide rollout time",
+    detail: "Configurable batch deploys with per-phase health checks",
   },
   {
     value: "~$1.3M/yr",
