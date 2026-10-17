@@ -119,9 +119,9 @@ export const initiatives: Initiative[] = [
     tags: ["kubernetes", "operator"],
   },
   {
-    title: "APM test bed",
+    title: "Monitoring-agent test bed",
     summary:
-      "Partnered across teams to stand up an end-to-end APM testing platform.",
+      "Partnered across teams to stand up an end-to-end test platform for the customer-side monitoring agent (collect and ship events, metrics, and traces).",
     tags: ["testing", "partner"],
   },
   {
